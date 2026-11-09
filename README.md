@@ -37,3 +37,5 @@ Android handles Bluetooth audio streaming. COM-Loop sends control commands over 
 - [Protocol notes](docs/PROTOCOL.md)
 - [Public references](docs/PUBLIC_RESEARCH.md)
 - [Validation notes](docs/VALIDATION.md)
+
+If you'd like to support development, you can [leave a tip on Ko-fi](https://ko-fi.com/moorlack).
