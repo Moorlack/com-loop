@@ -1,0 +1,10 @@
+{
+  "file": "COM-DEX_1.3.0.apk",
+  "sha256": "a18e8f8b4569889e81220f4aacb339435c00e87634fe6fe52bf1c7c8db88b30e",
+  "bytes": 8237415,
+  "package": "com.widex.comdex",
+  "versionName": "1.3.0",
+  "versionCode": 118,
+  "minSdk": 19,
+  "targetSdk": 25
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="widget_row">COM-Loop · Row</string>
+    <string name="widget_column">COM-Loop · Column</string>
+    <string name="widget_open">Open COM-Loop</string>
+    <string name="widget_down">Volume down</string>
+    <string name="widget_up">Volume up</string>
+    <string name="widget_room">Surrounding sounds</string>
+    <string name="widget_offline">Offline</string>
+    <string name="widget_offline_open">COM-DEX disconnected. Open app</string>
+    <string name="widget_charge_unknown">…</string>
+    <string name="widget_room_on">Surrounding sounds on. Tap to turn off</string>
+    <string name="widget_room_off">Surrounding sounds off. Tap to turn on</string>
+</resources>

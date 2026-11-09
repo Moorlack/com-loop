@@ -1,0 +1,100 @@
+[
+  {
+    "file": "sources/widex-troubleshooting-2016.pdf",
+    "title": "WIDEX COM-DEX troubleshooting guide, September 2016",
+    "url": "https://www.widexpro.com/-/media/widex/global/files/accessories/com-dex-trouble-shooting-week-46.pdf",
+    "retrieved_utc": "2026-10-30T17:03:25.079156+00:00",
+    "resolved_url": "https://www.widexpro.com/-/media/widex/global/files/accessories/com-dex-trouble-shooting-week-46.pdf",
+    "status": "downloaded",
+    "bytes": 756131,
+    "sha256": "2eb3b49862946888241d1816aeb8fe6d8d071d88a3bcd8b617b3ebb8c88bddf8"
+  },
+  {
+    "file": "sources/widex-com-dex-manual.pdf",
+    "title": "WIDEX user instructions, mirrored manufacturer document",
+    "url": "https://hmi-basen.dk/en/blobs/brugsvejl/47034.pdf",
+    "retrieved_utc": "2026-10-30T17:03:25.995152+00:00",
+    "resolved_url": "https://hmi-basen.dk/en/blobs/brugsvejl/47034.pdf",
+    "status": "downloaded",
+    "bytes": 1557818,
+    "sha256": "82d08795b2ce13784c5c31936cf17499f1edd46c8af386e3e41117e700cc8cf2"
+  },
+  {
+    "file": "sources/widex-com-dex-faq.pdf",
+    "title": "WIDEX COM-DEX Questions and Answers",
+    "url": "https://www.widexpro.com/-/media/widex/global/files/accessories/com-dex-questions-and-answers.pdf",
+    "retrieved_utc": "2026-10-30T17:03:28.254052+00:00",
+    "status": "downloaded",
+    "bytes": 1780079,
+    "sha256": "13a429a173b1d0f217227a88aacddc8bcdf0a1f5277d3f1e94c1cb11acaabc79",
+    "cached": true
+  },
+  {
+    "file": "sources/widex-two-phones-2016.pdf",
+    "title": "WIDEX connecting two phones, September 2016",
+    "url": "https://www.widex.com/-/media/widex/global/files/accessories/com-dex-connecting-two-phones-guide-september-2016.pdf?hash=711D7DF4D849FA4C3E0647559C878B68&rev=-1",
+    "retrieved_utc": "2026-10-30T17:03:28.255838+00:00",
+    "status": "downloaded",
+    "bytes": 418703,
+    "sha256": "ee4a06ad50a309f5fe4baf42b357381fc189592875089a8ef627c0f83aef68ea",
+    "cached": true
+  },
+  {
+    "file": "sources/widex-com-dex-datasheet.pdf",
+    "title": "WIDEX technical data sheet (Spanish)",
+    "url": "https://www.widex.com.uy/descargas/accesorios/dex/ficha-tecnica-com-dex.pdf",
+    "retrieved_utc": "2026-10-30T17:03:28.256434+00:00",
+    "status": "downloaded",
+    "bytes": 488914,
+    "sha256": "d2f0ca8a9f9a6c45f48120da3af9cf56e6acf7885c5cfdc7c7fa1ce9511752a3",
+    "cached": true
+  },
+  {
+    "file": "sources/fcc-com-dex-ble-report.pdf",
+    "title": "WIDEX / TUV FCC BLE radio test report, 2774798",
+    "url": "https://fcc.report/FCC-ID/TTY-CMDEX/2774798.pdf",
+    "retrieved_utc": "2026-10-30T17:03:28.257038+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "sources/fcc-com-dex-internal-photos.pdf",
+    "title": "WIDEX FCC internal photos, 2774834",
+    "url": "https://fcc.report/FCC-ID/TTY-CMDEX/2774834.pdf",
+    "retrieved_utc": "2026-10-30T17:03:28.361364+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "sources/fcc-com-dex-confidentiality.pdf",
+    "title": "WIDEX FCC confidentiality request, 2774807",
+    "url": "https://fcc.report/FCC-ID/TTY-CMDEX/2774807.pdf",
+    "retrieved_utc": "2026-10-30T17:03:28.454738+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "sources/fcc-com-dex-manual-part1.pdf",
+    "title": "WIDEX FCC user instructions part 1, 2774832",
+    "url": "https://fcc.report/FCC-ID/TTY-CMDEX/2774832.pdf",
+    "retrieved_utc": "2026-10-30T17:03:28.697424+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "sources/fcc-com-dex-manual-part2.pdf",
+    "title": "WIDEX FCC user instructions part 2, 2774833",
+    "url": "https://fcc.report/FCC-ID/TTY-CMDEX/2774833.pdf",
+    "retrieved_utc": "2026-10-30T17:03:28.782035+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "sources/widex-remote-mic-manual-2020.pdf",
+    "title": "WIDEX Remote Mic instructions 2020-01, mirrored manufacturer PDF",
+    "url": "https://device.report/m/48a0cc1aab533fe378c03701a1a9b74224d61e0054f307aeaa834e8542b09710.pdf",
+    "retrieved_utc": "2026-10-30T17:03:28.876593+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

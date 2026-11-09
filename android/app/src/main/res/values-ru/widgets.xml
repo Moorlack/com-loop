@@ -1,0 +1,13 @@
+<resources>
+    <string name="widget_row">COM-Loop · Горизонтальный</string>
+    <string name="widget_column">COM-Loop · Вертикальный</string>
+    <string name="widget_open">Открыть COM-Loop</string>
+    <string name="widget_down">Тише</string>
+    <string name="widget_up">Громче</string>
+    <string name="widget_room">Окружающие звуки</string>
+    <string name="widget_offline">Нет связи</string>
+    <string name="widget_offline_open">COM-DEX не подключён. Открыть приложение</string>
+    <string name="widget_charge_unknown">…</string>
+    <string name="widget_room_on">Окружающие звуки включены. Нажмите, чтобы выключить</string>
+    <string name="widget_room_off">Окружающие звуки выключены. Нажмите, чтобы включить</string>
+</resources>
